@@ -24,4 +24,4 @@ SMOTE → Model Training → Evaluation
 Python, scikit-learn, LightGBM, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Dataset
-[Airline Passenger Satisfaction – Kaggle](link here)
+[Airline Passenger Satisfaction – Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction/data)
